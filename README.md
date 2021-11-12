@@ -6,11 +6,11 @@
 
 ### About
 
-- Amateur Coder
+- 业余coder（没有大型工程经验）
 
-- Touhou Project
+- 东方众
 
-- Touhou STG
+- 飞机人（妖妖梦爱好者）
 
 ### Site
 
